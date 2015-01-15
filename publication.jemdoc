@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publication
+
+~~~
+{}{raw}
+<table>
+<tr valign="top">
+<td align="right" class="bibtexnumber">
+[<a name="Hu2012">1</a>]
+</td>
+<td class="bibtexitem">
+Jiaxi Hu, Zhaosen Wang, Qiyuan Qiu, Weijun Xiao, and David&nbsp;J. Lilja.
+ Sparse fast Fourier transform on GPUs and multi-core CPUs.
+  <em> Symposium on Computer Architecture and High
+  Performance Computing</em>, pages 83--91, 2012.
+[&nbsp;<a href="sFFT_bib.html#Hu2012">bib</a>&nbsp;| 
+<a href="http://dx.doi.org/10.1109/SBAC-PAD.2012.34">DOI</a>&nbsp;]
+</td>
+</tr>
+</table>
+~~~

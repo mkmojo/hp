@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{index.html}
+= Home
+
+~~~
+{}{raw}
+<img src="images/profile_pic.jpg" height = "200" width="225">
+~~~
+
+Hello everyone, welcome to my homepage.
+My name is 邱奇源.
+
+I am a first year Phd candidate at the University of Rochester.
+

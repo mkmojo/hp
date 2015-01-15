@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{index.html}
+= Home
+
+~~~
+{}{raw}
+<img src="images/profile_pic.jpg" height="400" width="600">
+<hr>
+<p>Email: <img src="images/email.png" border="0" align="absbottom" title=""> </p>
+<p> Office: CSC 726 </p>
+~~~
+
+
+
+
